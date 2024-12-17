@@ -391,7 +391,7 @@
         "answer": "Odgovori",
         "audioCallTitle": "Dohodni klic",
         "decline": "Zavrni",
-        "productLabel": "iz Jitsi Meet",
+        "productLabel": "iz Satia Meet",
         "videoCallTitle": "Dohodni video klic"
     },
     "info": {
@@ -604,7 +604,7 @@
         "newDeviceAction": "Uporabi",
         "newDeviceAudioTitle": "Zaznana je bila nova zvočna naprava",
         "newDeviceCameraTitle": "Zaznana je bila nova kamera",
-        "oldElectronClientDescription1": "Uporabljate staro verzijo aplikacije Jitsi Meet, ki ima varnostne ranljivosti. Prosimo, naložite si ",
+        "oldElectronClientDescription1": "Uporabljate staro verzijo aplikacije Satia Meet, ki ima varnostne ranljivosti. Prosimo, naložite si ",
         "oldElectronClientDescription2": "zadnjo verzijo.",
         "oldElectronClientDescription3": " zdaj!",
         "passwordRemovedRemotely": "$t(lockRoomPasswordUppercase) je odstranil drug udeleženec srečanja",
@@ -1048,16 +1048,7 @@
         "tr": "TR"
     },
     "userMedia": {
-        "androidGrantPermissions": "Izberite <b><i>Dovoli</i></b>, ko brskalnik zahteva dovoljenja.",
-        "chromeGrantPermissions": "Izberite <b><i>Dovoli</i></b>, ko brskalnik zahteva dovoljenja.",
-        "edgeGrantPermissions": "Izberite <b><i>Da</i></b>, ko brskalnik zahteva dovoljenja.",
-        "electronGrantPermissions": "Prosimo, da odobrite zahtevo za uporabo kamere in mikrofona",
-        "firefoxGrantPermissions": "Izberite <b><i>Skupna raba izbrane naprave</i></b>, ko brskalnik zahteva dovoljenja.",
-        "iexplorerGrantPermissions": "Izberite <b><i>OK</i></b>, ko brskalnik zahteva dovoljenja.",
-        "nwjsGrantPermissions": "Prosimo, da odobrite zahtevo za uporabo kamere in mikrofona",
-        "operaGrantPermissions": "Izberite <b><i>Dovoli</i></b>, ko brskalnik zahteva dovoljenja.",
-        "react-nativeGrantPermissions": "Izberite <b><i>Dovoli</i></b>, ko brskalnik zahteva dovoljenja.",
-        "safariGrantPermissions": "Izberite <b><i>OK</i></b>, ko brskalnik zahteva dovoljenja."
+        "grantPermissions": "Prosimo, da odobrite zahtevo za uporabo kamere in mikrofona."
     },
     "videoSIPGW": {
         "busy": "Delamo na sprostitvi virov. Poskusite znova čez nekaj minut.",
@@ -1145,7 +1136,7 @@
         "go": "POJDI",
         "goSmall": "POJDI",
         "headerSubtitle": "Varni in kvalitetni sestanki",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "Informacije",
         "jitsiOnMobile": "Jitsi na telefonih – prenesi aplikacijo in začni sestanek od kjerkoli",
         "join": "PRIDRUŽI SE",
@@ -1153,7 +1144,7 @@
             "calendar": "Logo koledarja",
             "desktopPreviewThumbnail": "Sličica deljenja zaslona",
             "googleLogo": "Google Logo",
-            "logoDeepLinking": "Jitsi meet logo",
+            "logoDeepLinking": "Satia Meet logo",
             "microsoftLogo": "Microsoft logo",
             "policyLogo": "Logo politike"
         },

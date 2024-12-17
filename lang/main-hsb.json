@@ -440,7 +440,7 @@
         "answer": "wotmołwić",
         "audioCallTitle": "telefonat",
         "decline": "ok",
-        "productLabel": "wot Jitsi Meet",
+        "productLabel": "wot Satia Meet",
         "videoCallTitle": "widejo - telefonat"
     },
     "info": {
@@ -1188,16 +1188,7 @@
         "tr": "TR"
     },
     "userMedia": {
-        "androidGrantPermissions": "Wuzwolće <b><i>dowolić</i></b>, hdyž so browser za prawom praša.",
-        "chromeGrantPermissions": "Wuzwolće<b><i>dowolić</i></b>, hdyž so browser za prawom praša.",
-        "edgeGrantPermissions": "Wuzwolće <b><i>haj</i></b>, hdyž so browser za prawom praša.",
-        "electronGrantPermissions": " wužiwanje kamery a mikrofona dowolić",
-        "firefoxGrantPermissions": " Wuzwolće<b><i>dowolić</i></b>, hdyž so browser za prawom praša.",
-        "iexplorerGrantPermissions": "Wuzwolće <b><i>OK</i></b>, hdyž so browser za prawom praša.",
-        "nwjsGrantPermissions": "prošu wužiwanje kamery a mikrofona dowolić ",
-        "operaGrantPermissions": " Wuzwolće<b><i>dowolić</i></b>, hdyž so browser za prawom praša.",
-        "react-nativeGrantPermissions": " Wuzwolće<b><i>dowolić</i></b>, hdyž so browser za prawom praša.",
-        "safariGrantPermissions": " Wuzwolće<b><i>OK</i></b>, hdyž so browser za prawom praša."
+        "grantPermissions": "prošu wužiwanje kamery a mikrofona dowolić."
     },
     "videoSIPGW": {
         "busy": "Njesteja žane resursy k dispoziciji. Prošu spytajće pozdźišo znowa.",
@@ -1295,7 +1286,7 @@
         "go": "startuj",
         "goSmall": "startuj",
         "headerSubtitle": "Wěste konferency we wysokej kwaliće",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "informacije za zawolenje",
         "jitsiOnMobile": "Jitsi po puću - cyle jednorje našu app downloadować a konferency wšudźe po puću startować",
         "join": "KREĚROWAĆ / PŘISTUPIĆ",
@@ -1303,7 +1294,7 @@
             "calendar": "protyka",
             "desktopPreviewThumbnail": "předpokazka za desktop thumbnail",
             "googleLogo": "Google logo",
-            "logoDeepLinking": "Jitsi Meet logo",
+            "logoDeepLinking": "Satia Meet logo",
             "microsoftLogo": "Microsoft logo",
             "policyLogo": "logo za směrnicy"
         },

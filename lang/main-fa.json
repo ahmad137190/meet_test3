@@ -1326,16 +1326,7 @@
     },
     "unpinParticipant": "{{participantName}} - برداشتن سنجاق",
     "userMedia": {
-        "androidGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>اجازه‌دادن</i></b> را انتخاب کنید.",
-        "chromeGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>اجازه‌دادن</i></b> را انتخاب کنید.",
-        "edgeGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>بله</i></b> را انتخاب کنید.",
-        "electronGrantPermissions": "درحال تلاش برای دسترسی به دوربین و میکروفون شما",
-        "firefoxGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>هم‌رسانی دستگاه انتخاب‌شده</i></b> را انتخاب کنید.",
-        "iexplorerGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>تأیید</i></b> را انتخاب کنید.",
-        "nwjsGrantPermissions": "لطفاً اجازهٔ استفاده از دوربین و میکروفون خود را بدهید",
-        "operaGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>اجازه‌دادن</i></b> را انتخاب کنید.",
-        "react-nativeGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>اجازه‌دادن</i></b> را انتخاب کنید.",
-        "safariGrantPermissions": "هنگامی که مرورگرتان اجازهٔ دسترسی می‌خواهد، <b><i>تأیید</i></b> را انتخاب کنید."
+        "grantPermissions": "لطفاً اجازهٔ استفاده از دوربین و میکروفون خود را بدهید."
     },
     "videoSIPGW": {
         "busy": "ما درحال آزادسازی منابع هستیم؛ لطفاً دقایقی دیگر دوباره تلاش کنید.",
@@ -1449,7 +1440,7 @@
         "go": "برویم",
         "goSmall": "برویم",
         "headerSubtitle": "جلسات امن و با کیفیت بالا",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "اطلاعات شماره‌گیری",
         "jitsiOnMobile": "Jitsi روی تلفن همراه - برنامه ما را بارگیری کنید و جلسه‌ای را از هرکجا آغاز کنید",
         "join": "ایجاد / پیوستن",
@@ -1457,7 +1448,7 @@
             "calendar": "نشان‌وارهٔ تقویم",
             "desktopPreviewThumbnail": "تصویر بندانگشتی پیش‌نمایش میزکار",
             "googleLogo": "نشان‌وارهٔ گوگل",
-            "logoDeepLinking": "نشان‌وارهٔ Jitsi Meet",
+            "logoDeepLinking": "نشان‌وارهٔ Satia Meet",
             "microsoftLogo": "نشان‌وارهٔ Microsoft",
             "policyLogo": "نشان‌وارهٔ خط مشی"
         },

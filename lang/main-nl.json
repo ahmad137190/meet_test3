@@ -382,7 +382,7 @@
         "answer": "Beantwoorden",
         "audioCallTitle": "Inkomende oproep",
         "decline": "Negeren",
-        "productLabel": "vanuit Jitsi Meet",
+        "productLabel": "vanuit Satia Meet",
         "videoCallTitle": "Inkomende video-oproep"
     },
     "info": {
@@ -595,7 +595,7 @@
         "newDeviceAction": "Gebruik",
         "newDeviceAudioTitle": "Nieuw audioapparaat gedetecteerd",
         "newDeviceCameraTitle": "Nieuwe camera gedetecteerd",
-        "oldElectronClientDescription1": "Het lijkt erop dat u een oude versie van Jitsi Meet gebruikt, waarvan beveiligingskwetsbaarheden bekend zijn. Zorg ervoor dat u nu bijwerkt naar de ",
+        "oldElectronClientDescription1": "Het lijkt erop dat u een oude versie van Satia Meet gebruikt, waarvan beveiligingskwetsbaarheden bekend zijn. Zorg ervoor dat u nu bijwerkt naar de ",
         "oldElectronClientDescription2": "nieuwste versie",
         "oldElectronClientDescription3": "!",
         "participantWantsToJoin": "Wil deelnemen aan de vergadering",
@@ -1013,16 +1013,7 @@
         "tr": "TR"
     },
     "userMedia": {
-        "androidGrantPermissions": "Selecteer <b><i>Toestaan</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "chromeGrantPermissions": "Selecteer <b><i>Toestaan</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "edgeGrantPermissions": "Selecteer <b><i>Ja</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "electronGrantPermissions": "Verleen toestemming om uw camera en microfoon te gebruiken.",
-        "firefoxGrantPermissions": "Selecteer <b><i>Geselecteerd apparaat delen</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "iexplorerGrantPermissions": "Selecteer <b><i>OK</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "nwjsGrantPermissions": "Verleen toestemming om uw camera en microfoon te gebruiken.",
-        "operaGrantPermissions": "Selecteer <b><i>Toestaan</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "react-nativeGrantPermissions": "Selecteer <b><i>Toestaan</i></b> wanneer uw browser om toegangsrechten vraagt.",
-        "safariGrantPermissions": "Selecteer <b><i>OK</i></b> wanneer uw browser om toegangsrechten vraagt."
+        "grantPermissions": "Verleen toestemming om uw camera en microfoon te gebruiken."
     },
     "videoSIPGW": {
         "busy": "Er worden middelen vrijgemaakt. Probeer het over enkele minuten opnieuw.",
@@ -1100,7 +1091,7 @@
         "go": "GAAN",
         "goSmall": "GAAN",
         "headerSubtitle": "Veilige vergaderingen van hoge kwaliteit",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "Informatie",
         "jitsiOnMobile": "Jitsi op de mobiele telefoon - download onze apps en start overal een vergadering",
         "join": "AANMAKEN / DEELNEMEN",

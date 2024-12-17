@@ -360,7 +360,7 @@
         "answer": "Erantzun",
         "audioCallTitle": "Sarrerako deia",
         "decline": "Baztertu",
-        "productLabel": "Jitsi Meet-etik",
+        "productLabel": "Satia Meet-etik",
         "videoCallTitle": "Bideo-deia sartzen"
     },
     "info": {
@@ -554,7 +554,7 @@
         "newDeviceAction": "Erabilera",
         "newDeviceAudioTitle": "Audio-gailu berria hauteman da",
         "newDeviceCameraTitle": "Kamera berria hauteman da",
-        "oldElectronClientDescription1": "Segurtasun arazoak dituen Jitsi Meet aplikazioa erabiltzen arai zara. Eguneratu ezazu",
+        "oldElectronClientDescription1": "Segurtasun arazoak dituen Satia Meet aplikazioa erabiltzen arai zara. Eguneratu ezazu",
         "oldElectronClientDescription2": "bertsio berriagora",
         "oldElectronClientDescription3": "ORAIN!",
         "passwordRemovedRemotely": "$t(lockRoomPasswordUppercase) beste erabiltzaile batek kendu du",
@@ -919,16 +919,7 @@
         "tr": "TR"
     },
     "userMedia": {
-        "androidGrantPermissions": "Hautatu <b><i>Baimendu</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "chromeGrantPermissions": "Hautatu <b><i>Baimendu</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "edgeGrantPermissions": "Hautatu <b><i>Bai</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "electronGrantPermissions": "Mesedez eman zure kamera eta mikrofonoa erabiltzeko baimenak",
-        "firefoxGrantPermissions": "Hautatu <b><i>Partekatutako hautatutako gailua</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "iexplorerGrantPermissions": "Hautatu <b><i>Ados</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "nwjsGrantPermissions": "Mesedez, eman zure kamera eta mikrofonoa erabiltzeko baimenak",
-        "operaGrantPermissions": "Hautatu <b><i>Baimendu</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "react-nativeGrantPermissions": "Hautatu <b><i>Baimendu</i></b> zure nabigatzaileak baimenak eskatzen dituenean.",
-        "safariGrantPermissions": "Hautatu <b><i>Ados</i></b> zure nabigatzaileak baimenak eskatzen dituenean."
+        "grantPermissions": "Mesedez, eman zure kamera eta mikrofonoa erabiltzeko baimenak."
     },
     "videoSIPGW": {
         "busy": "Baliabideak askatzeko lanetan gabiltza. Mesedez, saiatu berriro minutu batzuk barru.",
@@ -1015,7 +1006,7 @@
         "go": "JOAN",
         "goSmall": "JOAN",
         "headerSubtitle": "Secure and high quality meetings",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "Informazioa",
         "jitsiOnMobile": "Jitsi eramangarrian – deskargatu gure aplikazioak eta hasi bilerak edonondik",
         "join": "SORTU / SARTU",
@@ -1023,7 +1014,7 @@
             "calendar": "Egutegiaren logoa",
             "desktopPreviewThumbnail": "Aurrebistaren iruditxoa",
             "googleLogo": "Googleren logoa",
-            "logoDeepLinking": "Jitsi meeten logo",
+            "logoDeepLinking": "Satia Meeten logo",
             "microsoftLogo": "Microsoften logo",
             "policyLogo": "Politikaren logoa"
         },

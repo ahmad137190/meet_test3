@@ -544,7 +544,7 @@
         "newDeviceAction": "వాడు",
         "newDeviceAudioTitle": "కొత్త ఆడియో పరికరం కనుగొనబడింది",
         "newDeviceCameraTitle": "కొత్త కేమెరా కనుగొనబడింది",
-        "oldElectronClientDescription1": "You appear to be using an old version of the Jitsi Meet client which has known security vulnerabilities. Please make sure you update to our ",
+        "oldElectronClientDescription1": "You appear to be using an old version of the Satia Meet client which has known security vulnerabilities. Please make sure you update to our ",
         "oldElectronClientDescription2": "సరికొత్త బిల్డు",
         "oldElectronClientDescription3": " ఇప్పుడే!",
         "passwordRemovedRemotely": "$t(lockRoomPasswordUppercase) removed by another participant",
@@ -902,16 +902,7 @@
         "tr": "TR"
     },
     "userMedia": {
-        "androidGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "chromeGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "edgeGrantPermissions": "Select <b><i>Yes</i></b> when your browser asks for permissions.",
-        "electronGrantPermissions": "Trying to access your camera and microphone",
-        "firefoxGrantPermissions": "Select <b><i>Share Selected Device</i></b> when your browser asks for permissions.",
-        "iexplorerGrantPermissions": "Select <b><i>OK</i></b> when your browser asks for permissions.",
-        "nwjsGrantPermissions": "Please grant permissions to use your camera and microphone",
-        "operaGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "react-nativeGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "safariGrantPermissions": "Select <b><i>OK</i></b> when your browser asks for permissions."
+        "grantPermissions": "Please grant permissions to use your camera and microphone."
     },
     "videoSIPGW": {
         "busy": "We're working on freeing resources. Please try again in a few minutes.",

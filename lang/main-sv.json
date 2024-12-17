@@ -469,7 +469,7 @@
         "answer": "Svara",
         "audioCallTitle": "Inkommande samtal",
         "decline": "Avvisa",
-        "productLabel": "från Jitsi Meet",
+        "productLabel": "från Satia Meet",
         "videoCallTitle": "Inkommande videosamtal"
     },
     "info": {
@@ -721,7 +721,7 @@
         "noiseSuppressionFailedTitle": "Det gick inte att starta brusreducering",
         "noiseSuppressionNoTrackDescription": "Slå på mikrofonen först.",
         "noiseSuppressionStereoDescription": "Brusreducering i stereoljud stöds för närvarande inte.",
-        "oldElectronClientDescription1": "Den version av Jitsi meet som används är gammal och har säkerhetsluckor. Var god uppdatera till den senaste versionen.",
+        "oldElectronClientDescription1": "Den version av Satia Meet som används är gammal och har säkerhetsluckor. Var god uppdatera till den senaste versionen.",
         "oldElectronClientDescription2": "senast build",
         "oldElectronClientDescription3": "nu!",
         "participantWantsToJoin": "Vill vara med på mötet",
@@ -1303,16 +1303,7 @@
     },
     "unpinParticipant": "Lossa deltagare",
     "userMedia": {
-        "androidGrantPermissions": "Välj <b><i>Tillåt</i></b> när din webbläsare begär åtkomst.",
-        "chromeGrantPermissions": "Välj <b><i>Tillåt</i></b> när din webbläsare begär åtkomst.",
-        "edgeGrantPermissions": "Välj <b><i>Ja</i></b> när din webbläsare begär åtkomst.",
-        "electronGrantPermissions": "Tillåt användning av din kamera och mikrofon",
-        "firefoxGrantPermissions": "Välj <b><i>Dela vald enhet</i></b> när din webbläsare begär åtkomst.",
-        "iexplorerGrantPermissions": "Välj <b><i>OK</i></b> när din webbläsare begär åtkomst.",
-        "nwjsGrantPermissions": "Tillåt användning av din kamera och mikrofon",
-        "operaGrantPermissions": "Välj <b><i>Tillåt</i></b> när din webbläsare begär åtkomst.",
-        "react-nativeGrantPermissions": "Välj <b><i>Tillåt</i></b> när din webbläsare begär åtkomst.",
-        "safariGrantPermissions": "Välj <b><i>OK</i></b> när din webbläsare begär åtkomst."
+        "grantPermissions": "Tillåt användning av din kamera och mikrofon."
     },
     "videoSIPGW": {
         "busy": "Vi arbetar med att frigöra resurser. Försök igen om några minuter.",
@@ -1422,7 +1413,7 @@
         "go": "KÖR",
         "goSmall": "BÖRJA",
         "headerSubtitle": "Säkra möten med hög kvalitet",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "Info",
         "jitsiOnMobile": "Jitsi på mobilen - ladda ner våra appar och starta ett möte var som helst",
         "join": "Gå med",

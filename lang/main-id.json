@@ -531,7 +531,7 @@
         "answer": "Jawab",
         "audioCallTitle": "Panggilan Masuk",
         "decline": "Tolak",
-        "productLabel": "dari Jitsi Meet",
+        "productLabel": "dari Satia Meet",
         "videoCallTitle": "Panggilan Video Masuk"
     },
     "info": {
@@ -789,7 +789,7 @@
         "noiseSuppressionDesktopAudioDescription": "Pengurangan kebisingan tidak dapat diaktifkan saat berbagi audio desktop, harap nonaktifkan dan coba lagi.",
         "noiseSuppressionFailedTitle": "Gagal memulai pengurangan kebisingan",
         "noiseSuppressionStereoDescription": "Pengurangan kebisingan audio stereo saat ini tidak didukung.",
-        "oldElectronClientDescription1": "Anda sepertinya menggunakan versi lama dari klien Jitsi Meet yang memiliki kerentanan keamanan yang diketahui. Pastikan Anda memperbarui ke ",
+        "oldElectronClientDescription1": "Anda sepertinya menggunakan versi lama dari klien Satia Meet yang memiliki kerentanan keamanan yang diketahui. Pastikan Anda memperbarui ke ",
         "oldElectronClientDescription2": "build terbaru",
         "oldElectronClientDescription3": " sekarang!",
         "participantWantsToJoin": "Ingin bergabung dengan pertemuan",
@@ -1388,16 +1388,7 @@
     },
     "unpinParticipant": "{{participantName}} - Lepas pin",
     "userMedia": {
-        "androidGrantPermissions": "Pilih <b><i>Izinkan</i></b> ketika browser Anda meminta izin.",
-        "chromeGrantPermissions": "Pilih <b><i>Izinkan</i></b> ketika browser Anda meminta izin.",
-        "edgeGrantPermissions": "Pilih <b><i>Ya</i></b> ketika browser Anda meminta izin.",
-        "electronGrantPermissions": "Mencoba mengakses kamera dan mikrofon Anda",
-        "firefoxGrantPermissions": "Pilih <b><i>Bagikan Perangkat yang Dipilih</i></b> ketika browser Anda meminta izin.",
-        "iexplorerGrantPermissions": "Pilih <b><i>OK</i></b> ketika browser Anda meminta izin.",
-        "nwjsGrantPermissions": "Harap berikan izin untuk menggunakan kamera dan mikrofon Anda",
-        "operaGrantPermissions": "Pilih <b><i>Izinkan</i></b> ketika browser Anda meminta izin.",
-        "react-nativeGrantPermissions": "Pilih <b><i>Izinkan</i></b> ketika browser Anda meminta izin.",
-        "safariGrantPermissions": "Pilih <b><i>OK</i></b> ketika browser Anda meminta izin."
+        "grantPermissions": "Harap berikan izin untuk menggunakan kamera dan mikrofon Anda."
     },
     "videoSIPGW": {
         "busy": "Kami sedang berupaya membebaskan sumber daya. Silakan coba lagi dalam beberapa menit.",
@@ -1517,7 +1508,7 @@
         "go": "LANJUT",
         "goSmall": "LANJUT",
         "headerSubtitle": "Pertemuan yang aman dan berkualitas tinggi",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "Info panggilan",
         "jitsiOnMobile": "Jitsi di ponsel - unduh aplikasi kami dan mulai pertemuan dari mana saja",
         "join": "BUAT / BERGABUNG",
@@ -1525,7 +1516,7 @@
             "calendar": "Logo kalender",
             "desktopPreviewThumbnail": "Thumbnail pratinjau desktop",
             "googleLogo": "Logo Google",
-            "logoDeepLinking": "Logo Jitsi meet",
+            "logoDeepLinking": "Logo Satia Meet",
             "microsoftLogo": "Logo Microsoft",
             "policyLogo": "Logo Kebijakan"
         },

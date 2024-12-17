@@ -534,7 +534,7 @@
         "answer": "Atbildēt",
         "audioCallTitle": "Ienākošs audio zvans",
         "decline": "Noraidīt",
-        "productLabel": "no Jitsi Meet",
+        "productLabel": "no Satia Meet",
         "videoCallTitle": "Ienākošs video zvans"
     },
     "info": {
@@ -793,7 +793,7 @@
         "noiseSuppressionDesktopAudioDescription": "Darbvirsmas audio koplietošanas laikā nevar iespējot trokšņu slāpēšanu. Lūdzu, atspējojiet to un mēģiniet vēlreiz.",
         "noiseSuppressionFailedTitle": "Neizdevās sākt trokšņu slāpēšanu",
         "noiseSuppressionStereoDescription": "Stereo audio trokšņu slāpēšana pašlaik netiek atbalstīta.",
-        "oldElectronClientDescription1": "Izskatās, ka jūs izmantojat vecu Jitsi Meet klienta versiju, kurai ir zināmas drošības ievainojamības. Lūdzu, atjauniniet uz ",
+        "oldElectronClientDescription1": "Izskatās, ka jūs izmantojat vecu Satia Meet klienta versiju, kurai ir zināmas drošības ievainojamības. Lūdzu, atjauniniet uz ",
         "oldElectronClientDescription2": "jaunākā versija",
         "oldElectronClientDescription3": "tagad!",
         "participantWantsToJoin": "Vēlas pievienoties sapulcei",
@@ -1405,16 +1405,7 @@
     },
     "unpinParticipant": "{{participantName}} — atspraust",
     "userMedia": {
-        "androidGrantPermissions": "Izvēlieties <b><i>Atļaut</i></b>, kad pārlūks vaicā par atļaujām.",
-        "chromeGrantPermissions": "Izvēlieties <b><i>Atļaut</i></b>, kad pārlūks vaicā par atļaujām.",
-        "edgeGrantPermissions": "Izvēlieties <b><i>Jā</i></b>, kad pārlūks vaicā par atļaujām.",
-        "electronGrantPermissions": "Lūdzu, dodiet atļauju piekļūt kamerai un mikrofonam",
-        "firefoxGrantPermissions": "Izvēlieties <b><i>Kopīgot izvēlēto ierīci</i></b>, kad pārlūks vaicā par atļaujām.",
-        "iexplorerGrantPermissions": "Izvēlieties <b><i>OK</i></b>, kad pārlūks vaicā par atļaujām.",
-        "nwjsGrantPermissions": "“Lūdzu, dodiet atļauju piekļūt kamerai un mikrofonam",
-        "operaGrantPermissions": "Izvēlieties <b><i>Atļaut</i></b>, kad pārlūks vaicā par atļaujām.",
-        "react-nativeGrantPermissions": "Izvēlieties <b><i>Atļaut</i></b>, kad pārlūks vaicā par atļaujām.",
-        "safariGrantPermissions": "Izvēlieties <b><i>OK</i></b>, kad pārlūks vaicā par atļaujām."
+        "grantPermissions": "“Lūdzu, dodiet atļauju piekļūt kamerai un mikrofonam."
     },
     "videoSIPGW": {
         "busy": "Tiek strādāts pie resursu atbrīvošanas. Lūdzu, pēc dažām minūtēm mēģiniet vēlreiz.",
@@ -1540,7 +1531,7 @@
         "go": "Aiziet",
         "goSmall": "Aiziet",
         "headerSubtitle": "Drošas un kvalitatīvas sapulces",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "Satia Meet",
         "info": "Iezvanes informācija",
         "jitsiOnMobile": "Jitsi mobilajā ierīcē — lejupielādējiet mūsu lietotnes un sāciet sapulci no jebkuras vietas",
         "join": "IZVEIDOT / PIEVIENOTIES",
@@ -1548,7 +1539,7 @@
             "calendar": "Kalendāra logotips",
             "desktopPreviewThumbnail": "Darbvirsmas priekšskatījuma sīktēls",
             "googleLogo": "Google logotips",
-            "logoDeepLinking": "Jitsi meet logotips",
+            "logoDeepLinking": "Satia Meet logotips",
             "microsoftLogo": "Microsoft logotips",
             "policyLogo": "Politikas logotips"
         },
